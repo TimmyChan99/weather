@@ -13,7 +13,7 @@ body {
 .headline {
     color: rgba(52, 65, 58);
     font-weight: 800;
-    font-size: 40px;
+    font-size: 50px;
     margin: 30px;
 }
 
@@ -94,4 +94,15 @@ section {
 .current-location {
     width: 30%;
     
+}
+
+/* Clock */ 
+
+.time {
+  position: fixed;
+  bottom: 100px;
+  left: 800px;
+  font-size: 100px; 
+  font-weight: 900;
+  color: #fff;  
 }

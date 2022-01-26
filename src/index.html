@@ -3,9 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wbpack Exercise</title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <title>Weather</title>
 </head>
 <body>
-    <h1>Hello webpack!</h1>
+    <h1 class="headline">Current Weather</h1>
+    <form class="search_location d-flex-column">
+        <input type="text" class="location_input" placeholder="Enter Location">
+        <button type="submit" class="get_btn">Get Current Weather</button>
+    </form>
+    <main class="main_info d-flex-row">
+        <section class="current-condition d-flex-column">
+            <img class="condition_icon" src="//cdn.weatherapi.com/weather/64x64/day/113.png" alt="">
+            <li class="condition_info">Sunny</li>
+            <li class="condition_info">17.0 °C</li>
+            <li class="condition_info">62.6 °F</li>
+        </section>
+        <section class="current-location d-flex-column">
+            <ul class="location ">
+                <li class="location_info d-flex-column">
+                    <span class="type">City:</span>
+                    <span class="info">Rabat</span>
+                </li>
+                    <br>
+                <li class="location_info d-flex-column">
+                    <span class="type">Country:</span>
+                    <span class="info">Morocco</span>
+                </li>            
+            </ul>
+        </section>     
+    </main>
 </body>
 </html>

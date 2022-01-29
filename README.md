@@ -5,7 +5,6 @@ Weather App is a web application where you an get the current weather of specifi
 
 ![image](https://user-images.githubusercontent.com/92228303/151673139-395c6551-6063-4da9-aef9-ce99bde6ffab.png)
 
-Additional description about the project and its features.
 
 ## Built With
 

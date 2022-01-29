@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Weather App
 
-> One paragraph statement about the project.
+Weather App is a web application where you an get the current weather of specific location by entering the name the city or country, using API from [weather api](weatherapi.com).
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,10 +12,12 @@ Additional description about the project and its features.
 - HTML
 - CSS
 - JavaScript
+- Webpack
+- API
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://timmychan99.github.io/weather/)
 
 
 ## Getting Started
@@ -24,7 +25,7 @@ Additional description about the project and its features.
 ### Setup
 To get a local copy up and running follow these simple example steps.
 
-`git clone https://github.com/TimmyChan99/`
+`git clone https://github.com/TimmyChan99/weather`
 
 
 ## Authors
@@ -35,11 +36,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@elemenoun](https://twitter.com/elemenoun)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-elemenoun-020841225/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

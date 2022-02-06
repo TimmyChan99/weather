@@ -3,6 +3,8 @@
 
 Weather App is a web application where you an get the current weather of specific location by entering the name the city or country, using API from [weather api](weatherapi.com).
 
+## Destktop Version
+
 ![image](https://user-images.githubusercontent.com/92228303/151673139-395c6551-6063-4da9-aef9-ce99bde6ffab.png)
 
 
